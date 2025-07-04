@@ -35,11 +35,6 @@ Este projeto consiste em uma avaliação prática de Java para a SCCON. O objeti
 
    * Utilize a IDE de sua preferência para executar o projeto.
    * A Base de dados utiliada neste projeto é o "H2 Console".
-     * A configuração do mesmo se encontra em aberto sem autenticação.
-   * A porta que roda o projeto é a '8081'.
-     * https://localhost:8081
-   * Utilize para realizar os teste o POSTMAM ou INSOMNIA.
-
-# Considerações finais.
-
-Foi muito gratificante realizar este desafio, pois fazia algum tempo que eu não resolvia problemas como esse. Apesar de serem simples, levei aproximadamente 2 dias para resolvê-los. A dificuldade que tive durante o desenvolvimento deste projeto foram os últimos end-points, pois a contagem dos dias e os cálculos referentes ao salário mínimo exigiram um pouco mais de reflexão antes de colocar a mão na massa. Mas consegui resolver com precisão, sem ajuda de IA, pois aceitei este projeto para colocar em prática minhas habilidades como desenvolvedor de software.
+     * Não precisa autenticar para entrar na base de dados.
+   * Para executar o projeto, utilize a porta'8081'.
+   * Uma dica é o POSTMAM ou INSOMNIA para testar as requisições (Requisições através do navegador ou cURL dão muito trabalho).
